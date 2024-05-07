@@ -1,0 +1,11 @@
+body{
+    background-image: url(../public/images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.signin{
+    font-family: 'Delicious Handrawn', cursive;
+    text-align: center;
+    font-size: 2.5rem;
+    color: black;
+}
